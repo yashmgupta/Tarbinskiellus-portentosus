@@ -1,0 +1,2 @@
+source	parser	trimmed_length_bp	orientation	alignment_start_1based	alignment_end_unwrapped_1based	alignment_end_wrapped_1based	crosses_origin	mismatches	mean_phred	bases_phred_ge_20
+TP13-TP13FR.ab1	abi-trim	651	reverse-complement	14968	15618	123	True	1	47.55299539170507	630

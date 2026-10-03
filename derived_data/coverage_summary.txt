@@ -1,0 +1,13 @@
+Reference: PZ447390.1
+Genome length: 15,495 bp
+Annotated D-loop: 14,763-15,495
+Lowest-coverage 325-bp window: 14,937-15,261
+Mean depth in lowest 325-bp window: 1.41x
+Zero-depth bases in lowest 325-bp window: 77 / 325
+Genome-wide combined mean depth: 459.02x
+Genome-wide median depth: 292.0x
+Genome-wide minimum depth: 0x
+Genome-wide maximum depth: 2413x
+Bases covered >=1x: 15,418 / 15,495 (99.50%)
+Bases covered >=10x: 14,596 / 15,495 (94.20%)
+Bases covered >=100x: 12,538 / 15,495 (80.92%)
